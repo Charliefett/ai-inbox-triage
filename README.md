@@ -1,3 +1,4 @@
+> **Prototype.** This demo can make up facts in its draft replies (prices, policies, hours). Don't use it with real customers. A safer redesign is in progress.
 AI Inbox Triage
 
 Turn a pile of unsorted customer messages into categorized, prioritized items — each with a drafted reply — in seconds.
@@ -14,7 +15,7 @@ Paste in a batch of incoming messages. The tool:
 
 Classifies each one — quote request, complaint, question, or other
 Flags urgency — time-sensitive or upset customers rise to the top
-Drafts a reply for each message, specific to its content, ready to send with minimal edits
+Drafts a reply for each message, specific to its content, for a person to review before sending
 Summarizes the batch — how many of each type, how many urgent
 How it works
 A single self-contained HTML page — no build step, no backend to run for the demo
